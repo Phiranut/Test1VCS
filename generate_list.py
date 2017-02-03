@@ -17,7 +17,7 @@ def main():
 If this script file is called, it will run main() directly
 """
 
-if_name_ == '_main_'
+if_name_ == "_main_"
     print("Test printIt():")
     main()
     
